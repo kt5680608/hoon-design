@@ -7,3 +7,5 @@ export { Popover, PopoverProps } from './popover';
 export { default as RollingText, CounterProps } from './rolling-text';
 export { Flex, FlexProps } from './flex';
 export { Heading, HeadingProps } from './heading';
+export { Skeleton } from './skeleton';
+export { SkeletonProps } from './skeleton/types';
