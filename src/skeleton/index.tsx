@@ -7,7 +7,7 @@ export const Skeleton = ({
   height = '30px',
   margin,
   padding,
-  width = '100%',
+  width = '300px',
   diameter = '60px',
   borderRadius,
 }: SkeletonProps) => {
