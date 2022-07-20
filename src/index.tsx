@@ -9,3 +9,5 @@ export { Flex, FlexProps } from './flex';
 export { Heading, HeadingProps } from './heading';
 export { Skeleton } from './skeleton';
 export { SkeletonProps } from './skeleton/types';
+export { default as LoadingSpinner } from './loading-spinner';
+export { LoadingSpinnerProps } from './loading-spinner/type';
